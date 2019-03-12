@@ -17,7 +17,7 @@
 ---
 # the ami for cent6 by region
 amis_by_region:
-  us-east-1:        ami-1c221e76    # US East (N. Virginia)
+  us-east-1:        ami-014b38e758721be30    # US East (N. Virginia)
   us-west-2:        ami-05cf2265    # US West (Oregon)
   us-west-1:        ami-ac5f2fcc    # US West (N. California)
   eu-central-1:     ami-2bf11444    # EU (Frankfurt)
